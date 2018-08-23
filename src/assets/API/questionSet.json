@@ -1,0 +1,182 @@
+{
+    "html": [
+        {
+            "questionID": 1,
+            "question": "What is image map?",
+            "answer": "Image map lets you link to many different web pages using a single image. You can define shapes in images that you want to make part of an image mapping."
+        },
+        {
+            "questionID": 2,
+            "question": "What is the use of Canvas Element in HTML5?",
+            "answer": "Html5 canvas element can be used to draw graphic images on a web page by using javascript."
+        },
+        {
+            "questionID": 3,
+            "question": "Can you give an example of Canvas Element how it can be used",
+            "answer": ""
+        },
+        {
+            "questionID": 4,
+            "question": "What is the purpose of HTML5 versus XHTML",
+            "answer": "Html5 is the next version of html4.01, xhtml1.0. It aims to reduce the need for proprietary plug-in-based rich internet application technologies such as Adobe Flash, Microsoft Silverlight, Apache Pivot, and Sun JavaFX. Instead of using those plugins, it enables browser to serve elements such as video and audio without any additional requirements on the client machine."
+        },
+        {
+            "questionID": 5,
+            "question": "What are some advantages of HTML5",
+            "answer": "a. Cleaner markup than earlier version of html\nb. Additional semantics of new elements like <header>, <nav>, and <time>\nc. New form input types and attributes that will take the hassle out of scripting forms"
+        },
+        {
+            "questionID": 6,
+            "question": "What is the <!DOCTYPE>? Is it mandatory to use in HTML5",
+            "answer": "The <!DOCTYPE> is an instruction to the web browser about what version of html the page is written in. This tag does not have an end tag.\nIts declaration must be the very first thing in html5 document, before the <html> tag."
+        },
+        {
+            "questionID": 7,
+            "question": "What are the ways of declaring CSS in HTML",
+            "answer": "a. External style sheet – using <link>\nb. Internal style sheet – using <style> and put it in <head>\nc. Inline style – in tags, style=””"
+        },
+        {
+            "questionID": 8,
+            "question": "What are the ways of declaring JavaScript in HTML",
+            "answer": "External JS files and internal JS code\nCan be added to anywhere"
+        },
+        {
+            "questionID": 9,
+            "question": "What is “Semantic HTML”?",
+            "answer": "It is a coding style where the tags embody what the text is meant to convey. In semantic html, tags like <b></b> for bold, <i></i> for italic should not be used, reason is that they just represent formatting, and provide no indication of meaning or structure."
+        },
+        {
+            "questionID": 10,
+            "question": "JSP VS HTML",
+            "answer": "a. Html pages provide static content with emphasis on the appearance, semantics and layout of the information in the browser. JSP pages consists of dynamically changing data which can invoke built-in functionality from the server.\nb. Html runs on the client side machine in the web browser, jsp runs on the server side interacting directly with web server\nc. Html loads faster as it runs on the local machine. Jsp takes some time to load as it has to interact with web server\nd. Html provides a means to describe the structure of text-based information in a document. Jsp provides a dynamic interface for continuously changing data and dynamically invokes server actions."
+        },
+        {
+            "questionID": 11,
+            "question": "How top include html template into html file?",
+            "answer": ""
+        },
+        {
+            "questionID": 12,
+            "question": "Explain HTML block and inline elements.",
+            "answer": "A block-level element always starts on a new line and takes up the full width available (stretches out to the left and right as far as it can).\nAn inline element does not start on a new line and only takes up as much width as necessary."
+        },
+        {
+            "questionID": 13,
+            "question": "What are new features in HTML5 (difference between html5 and html4)?",
+            "answer": ""
+        },
+        {
+            "questionID": 14,
+            "question": "What is HTML5 validation?",
+            "answer": ""
+        },
+        {
+            "questionID": 15,
+            "question": "What are the New Media Elements in HTML5?",
+            "answer": ""
+        },
+        {
+            "questionID": 16,
+            "question": "New Form Elements.",
+            "answer": ""
+        },
+        {
+            "questionID": 17,
+            "question": "New Semantic/Structural Elements: A semantic element clearly describes its meaning to both the browser and the developer.",
+            "answer": ""
+        },
+        {
+            "questionID": 18,
+            "question": "What is the major improvement with HTML5 in reference to Flash?",
+            "answer": ""
+        },
+        {
+            "questionID": 19,
+            "question": "What is local storage and session storage and how can you create one?",
+            "answer": ""
+        },
+        {
+            "questionID": 20,
+            "question": "What is the relationship between SGML, HTML, XML and HTML?",
+            "answer": ""
+        },
+        {
+            "questionID": 21,
+            "question": "In HTML5 we do not need DTD why?",
+            "answer": ""
+        },
+        {
+            "questionID": 22,
+            "question": "How is the page structure of HTML5 different from HTML4 or previous HTML?",
+            "answer": ""
+        }
+        
+    ],
+    "css": [
+        {
+            "questionID": 1,
+            "question": "",
+            "answer": ""
+        }
+    ],
+    "javascript": [
+        {
+            "questionID": 1,
+            "question": "What is JavaScript?",
+            "answer": "JavaScript is a scripting language most often used for client-side web development."
+        },
+        {
+            "questionID": 2,
+            "question": "What is a prompt box?",
+            "answer": "A prompt box is a box which allows the user to enter input by providing a text box. Box will be provided to enter the text or number."
+        },
+        {
+            "questionID": 3,
+            "question": "What are the data types in JavaScript?",
+            "answer": "Six primitive data types: Boolean (true and false), null (a special keyword denoting a null value), undefined (a top-level property whose value is not defined), Number (an integer or floating point number), String (a sequence of characters that represent a text value), Symbol (a data type whose instances are unique and immutable).\nAn Object"
+        },
+        {
+            "questionID": 4,
+            "question": "What is the difference between “===” and “==”?",
+            "answer": "“==” checks equality only, while “===” checks for equality as well as the type."
+        },
+        {
+            "questionID": 5,
+            "question": "Difference between null and undefined?",
+            "answer": "Null is a special keyword denoting a null value, while undefined is a top-level property whose value is not defined."
+        },
+        {
+            "questionID": 6,
+            "question": "Can we have two functions with the same name in JavaScript?",
+            "answer": "Yes, functions are also objects. The last one defined will be the one that actually runs regardless of the number of parameters."
+        },
+        {
+            "questionID": 7,
+            "question": "Declaring variables with or without var keyword, what’s the difference?",
+            "answer": "In global scope, there is no difference. In local scope, the variables declared with var are local variables in current scope, and the variables declared without var are global variables."
+        }
+    ],
+    "react": [
+        {
+            "questionID": 1,
+            "question": "What customer directives did you do?",
+            "answer": ""
+        },
+        {
+            "questionID": 2,
+            "question": "What part of ReactJS did you use?",
+            "answer": ""
+        },
+        {
+            "questionID": 3,
+            "question": "Did you use data binding?",
+            "answer": ""
+        },
+        {
+            "questionID": 4,
+            "question": "What does data binding give you?",
+            "answer": ""
+        }
+        
+    ]
+}
